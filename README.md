@@ -1,4 +1,4 @@
-[![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)]
+![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Das</h1>
 <h3 align="center">A passionate Data Science learner from India</h3>
 
