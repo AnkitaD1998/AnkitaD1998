@@ -1,4 +1,4 @@
-![MasterHead](https://st4.depositphotos.com/16138592/26755/v/950/depositphotos_267550534-stock-illustration-doodle-illustration-of-data-science.jpg?forcejpeg=true)
+[![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)]
 <h1 align="center">Hi 👋, I'm Ankita Das</h1>
 <h3 align="center">A passionate Data Science learner from India</h3>
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankita-das-7339aa123?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqp%2fgtytbscmig7zoxpuwrw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankita-das-7339aa123?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqp%2fgtytbscmig7zoxpuwrw%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankita-das-7339aa123?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b3ms8olltsma3qhm%2f1knoew%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-das-7339aa123?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b3ms8olltsma3qhm%2f1knoew%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
