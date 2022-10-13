@@ -1,4 +1,4 @@
-![MasterHead](https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png)
+![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi 👋, I'm Ankita Das</h1>
 <h3 align="center">A passionate Data Science learner from India</h3>
 
