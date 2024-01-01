@@ -16,7 +16,7 @@ As a Data Science beginner with passionate about technologies like Data Analytic
 
 <!-- Badges -->
 <p align="center">
-  <img alt="GitHub profile views" src="https://img.shields.io/github/profile-views/your_username?label=Profile%20Views&style=social">
+  <img alt="GitHub profile views" src="https://github.com/AnkitaD1998">
 </p>
 
 ## 💻Skills
