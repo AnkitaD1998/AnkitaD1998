@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Data Science learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitad1998&label=Profile%20views&color=0e75b6&style=flat" alt="ankitad1998" /> </p>
-## About Me:
 
 - 🌱 I’m currently learning **MCA in Data Science**
 
