@@ -15,11 +15,9 @@ As a Data Science beginner with passionate about technologies like Data Analytic
 📧  Reach out to me via 𝐝𝐬𝐚𝐧𝐤𝐢𝐭𝐚𝟗𝟖@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitad1998&label=Profile%20views&color=0e75b6&style=flat" alt="ankitad1998" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ankita-das-7339aa123/)
+- [Novypro](https://www.novypro.com/profile_projects/member----3522)
 
 
 ## 💻Skills
