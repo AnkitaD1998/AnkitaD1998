@@ -10,20 +10,18 @@ As a Data Science beginner with passionate about technologies like Data Analytic
 
 📝  I love to write posts about Data Science, Analytics & Business Intelligence on [LinkedIn](https://www.linkedin.com/in/ankita-das-7339aa123/)
 
-📚  Recently completed MCA in Data Science 
+📚  Recently completed MCA in Data Science (Jan'2024) 
 
 📧  Reach out to me via 𝐝𝐬𝐚𝐧𝐤𝐢𝐭𝐚𝟗𝟖@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
-## Skills
-
-- **Database:** MySQL
-- **Data Visualization:** Power BI, Excel
-- **Programming:** Python
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Statistical Analysis:** Hypothesis testing, Regression analysis
-- **Data Analysis:** Pandas, NumPy
-- **Version Control:** Git
-
+## 💻Skills
+- **Programming and Database languages:** Python, MySQL
+- **Visualization Tools:** Microsoft Power BI, Tableau, Google Looker Studio, Excel
+- **MS Office tools:** Excel, PowerPoint, Word
+- **Python packages:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- **Data Science & Machine Learning:** Regression, Classification, KNN, Decision Tree, Support Vector Machines, Boosting, PCA, k-means, Data Preprocessing, Feature engineering, Feature Selection, Hyperparameter tuning
+- **Mathematics for ML:** Statistics, Algebra, Probability, Calculus, Matrices, Hypothesis testing
+  
 ## Projects
 
 Here are some of my notable projects:
