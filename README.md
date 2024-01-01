@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 # Welcome to [Your Name]'s Data Science Hub! 👋
 
-![Header Image](url_to_your_header_image)
+![Header Image](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 
 ## About Me
 
