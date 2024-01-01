@@ -22,7 +22,7 @@ As a Data Science beginner with passionate about technologies like Data Analytic
 - **Data Science & Machine Learning:** Regression, Classification, KNN, Decision Tree, Support Vector Machines, Boosting, PCA, k-means, Data Preprocessing, Feature engineering, Feature Selection, Hyperparameter tuning
 - **Mathematics for ML:** Statistics, Algebra, Probability, Calculus, Matrices, Hypothesis testing
 
-## Let's Connect!
+## 🤝🏻Let's Connect!
 I'm always open to collaboration and discussions. If you have any questions, or ideas, or just want to chat about data science, feel free to reach out! 😊
 
 
