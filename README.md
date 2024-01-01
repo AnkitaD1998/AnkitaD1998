@@ -14,6 +14,8 @@ As a Data Science beginner with passionate about technologies like Data Analytic
 
 📧  Reach out to me via 𝐝𝐬𝐚𝐧𝐤𝐢𝐭𝐚𝟗𝟖@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
+- [LinkedIn](https://www.linkedin.com/in/ankita-das-7339aa123/)
+
 ## 💻Skills
 - **Programming and Database languages:** Python, MySQL
 - **Visualization Tools:** Microsoft Power BI, Tableau, Google Looker Studio, Excel
